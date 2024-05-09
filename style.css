@@ -1,0 +1,14 @@
+body{
+    background-color:#212121;
+}
+#text{
+    height:200px;
+    border-radius: 5%;
+    margin-left: 10px;
+}
+#input{
+  width: 10rem;
+}
+button{
+    background-color: green;
+}
